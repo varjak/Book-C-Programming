@@ -1,0 +1,417 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BackendCodeEditorMiscSettings">
+    <option name="/Default/Housekeeping/FeatureSuggestion/FeatureSuggestionManager/DisabledSuggesters/=SwitchToGoToActionSuggester/@EntryIndexedValue" value="true" type="bool" />
+    <option name="/Default/Housekeeping/GlobalSettingsUpgraded/IsUpgraded/@EntryValue" value="true" type="bool" />
+    <option name="/Default/RiderDebugger/RiderRestoreDecompile/RestoreDecompileSetting/@EntryValue" value="false" type="bool" />
+  </component>
+  <component name="CMakePresetLoader">{
+  &quot;useNewFormat&quot;: true
+}</component>
+  <component name="CMakeProjectFlavorService">
+    <option name="flavorId" value="CMakePlainProjectFlavor" />
+  </component>
+  <component name="CMakeReloadState">
+    <option name="reloaded" value="true" />
+  </component>
+  <component name="CMakeRunConfigurationManager">
+    <generated>
+      <config projectName="C_Programming_Book" targetName="Ex-01" />
+      <config projectName="C_Programming_Book" targetName="Ch03-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch03-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch06-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch09-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch09-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch08-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ex-07" />
+      <config projectName="C_Programming_Book" targetName="Pr-03" />
+      <config projectName="C_Programming_Book" targetName="Ch05-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch06-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ex-09" />
+      <config projectName="C_Programming_Book" targetName="Pr-01" />
+      <config projectName="C_Programming_Book" targetName="Ex-03" />
+      <config projectName="C_Programming_Book" targetName="Pr-07" />
+      <config projectName="C_Programming_Book" targetName="Ex-05" />
+      <config projectName="C_Programming_Book" targetName="Pr-05" />
+      <config projectName="C_Programming_Book" targetName="Ex-10" />
+      <config projectName="C_Programming_Book" targetName="Ch10-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch04-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch07-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch10-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch10-Pr01" />
+      <config projectName="C_Programming_Book" targetName="test" />
+      <config projectName="C_Programming_Book" targetName="Ch04-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch05-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ch07-Prs" />
+      <config projectName="C_Programming_Book" targetName="Ch08-Exs" />
+      <config projectName="C_Programming_Book" targetName="Ex-06" />
+      <config projectName="C_Programming_Book" targetName="Pr-04" />
+      <config projectName="C_Programming_Book" targetName="Ex-08" />
+      <config projectName="C_Programming_Book" targetName="Pr-02" />
+      <config projectName="C_Programming_Book" targetName="Ex-02" />
+      <config projectName="C_Programming_Book" targetName="Pr-08" />
+      <config projectName="C_Programming_Book" targetName="C_Programming_Book" />
+      <config projectName="C_Programming_Book" targetName="Ex-04" />
+      <config projectName="C_Programming_Book" targetName="Pr-06" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" ENABLED="true" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="31f01ab6-6fa7-498e-8de1-8b9cc823a5de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="CurrentDebugProfile">
+    <option name="debugProfileId" value="7acfa1ae-0d61-4529-8b69-e26bdce21e6a" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="HaOAswpi" />
+  </component>
+  <component name="ProjectApplicationVersion">
+    <option name="ide" value="CLion" />
+    <option name="majorVersion" value="2026" />
+    <option name="minorVersion" value="2" />
+    <option name="productBranch" value="Classic" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="3IWGinJc4ZNZKEx96LLmAigU811" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "C/C++ File.Pr-07.c.executor": "Run",
+    "CMake Application.C_Programming_Book.executor": "Run",
+    "CMake Application.Ch04-Exs.executor": "Run",
+    "CMake Application.Ch04-Prs.executor": "Run",
+    "CMake Application.Ch05-Exs.executor": "Run",
+    "CMake Application.Ch05-Prs.executor": "Run",
+    "CMake Application.Ch06-Exs.executor": "Run",
+    "CMake Application.Ch06-Prs.executor": "Run",
+    "CMake Application.Ch08-Pr01.executor": "Run",
+    "CMake Application.Ch09-Exs.executor": "Run",
+    "CMake Application.Ch10-Pr01.executor": "Run",
+    "CMake Application.Ch7-Prs.executor": "Run",
+    "CMake Application.Ch8-Prs.executor": "Run",
+    "CMake Application.Ex-01.executor": "Run",
+    "CMake Application.Ex-02.executor": "Run",
+    "CMake Application.Ex-03.executor": "Run",
+    "CMake Application.Ex-04.executor": "Run",
+    "CMake Application.Ex-05.executor": "Run",
+    "CMake Application.Exercises.executor": "Run",
+    "CMake Application.Pj-01.executor": "Run",
+    "CMake Application.Pj-02.executor": "Run",
+    "CMake Application.Pr-03.executor": "Run",
+    "CMake Application.Pr-04.executor": "Run",
+    "CMake Application.Pr-05.executor": "Run",
+    "CMake Application.Pr-06.executor": "Run",
+    "CMake Application.Pr-07.executor": "Run",
+    "CMake Application.Pr-08.executor": "Run",
+    "CMake Application.Projects.executor": "Run",
+    "CidrDebugProfileConversion": "true",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.RadMigrateCodeStyle": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.cidr.known.project.marker": "true",
+    "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "RunOnceActivity.west.config.association.type.startup.service": "true",
+    "cf.first.check.clang-format": "false",
+    "cidr.known.project.marker": "true",
+    "codeWithMe.voiceChat.enabledByDefault": "false",
+    "ignore.virus.scanning.warn.message": "true",
+    "last_opened_file_path": "C:/Users/guta_/OneDrive/Programacao/C-Programming-Book",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.jshint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.jshint": "",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "org.rust.first.attach.projects": "true",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Programação\C-Programming-Book\Chapter-10" />
+      <recent name="C:\Users\guta_\OneDrive\Programação\C-Programming-Book\Chapter-08" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\User\OneDrive\Programacao\C-Programming-Book\Chapter-10" />
+      <recent name="C:\Users\User\OneDrive\Programação\C-Programming-Book\Chapter-10" />
+      <recent name="C:\Users\User\OneDrive\Programação\C-Programming-Book\Chapter-08" />
+      <recent name="C:\Users\User\Desktop\Embedded Engineering\Code\C-Programming-Book\Chapter-02\Exercises" />
+    </key>
+  </component>
+  <component name="RunManager" selected="CMake Application.Ch10-Pr01">
+    <configuration name="C_Programming_Book" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="C_Programming_Book" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="C_Programming_Book">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch03-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch03-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch03-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch03-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch03-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch03-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch04-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch04-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch04-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch04-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch04-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch04-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch05-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch05-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch05-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch05-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch05-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch05-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch06-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch06-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch06-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch06-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch06-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch07-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch07-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch07-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch07-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch07-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch07-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch08-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch08-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch08-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch08-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch08-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch08-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch09-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch09-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch09-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch09-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch09-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch09-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch10-Exs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch10-Exs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch10-Exs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch10-Pr01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch10-Pr01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch10-Pr01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ch10-Prs" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ch10-Prs" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ch10-Prs">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-06" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-07" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-09" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-09" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-09">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Ex-10" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Ex-10" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Ex-10">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-01" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-01" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-01">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-02" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-02" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-02">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-03" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-03" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-03">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-04" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-04" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-04">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-05" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-05" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-05">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-06" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-06" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-06">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-07" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-07" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-07">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Pr-08" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="Pr-08" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="Pr-08">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="test" type="CMakeRunConfiguration" factoryName="Application" REDIRECT_INPUT="false" ELEVATE="false" USE_EXTERNAL_CONSOLE="false" EMULATE_TERMINAL="false" PASS_PARENT_ENVS_2="true" PROJECT_NAME="C_Programming_Book" TARGET_NAME="test" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="C_Programming_Book" RUN_TARGET_NAME="test">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="CMake Application.C_Programming_Book" />
+      <item itemvalue="CMake Application.Ch03-Exs" />
+      <item itemvalue="CMake Application.Ch03-Prs" />
+      <item itemvalue="CMake Application.Ch04-Exs" />
+      <item itemvalue="CMake Application.Ch04-Prs" />
+      <item itemvalue="CMake Application.Ch05-Exs" />
+      <item itemvalue="CMake Application.Ch05-Prs" />
+      <item itemvalue="CMake Application.Ch06-Exs" />
+      <item itemvalue="CMake Application.Ch06-Prs" />
+      <item itemvalue="CMake Application.Ch07-Exs" />
+      <item itemvalue="CMake Application.Ch07-Prs" />
+      <item itemvalue="CMake Application.Ch08-Exs" />
+      <item itemvalue="CMake Application.Ch08-Prs" />
+      <item itemvalue="CMake Application.Ch09-Exs" />
+      <item itemvalue="CMake Application.Ch09-Prs" />
+      <item itemvalue="CMake Application.Ch10-Exs" />
+      <item itemvalue="CMake Application.Ch10-Pr01" />
+      <item itemvalue="CMake Application.Ch10-Prs" />
+      <item itemvalue="CMake Application.Ex-01" />
+      <item itemvalue="CMake Application.Ex-02" />
+      <item itemvalue="CMake Application.Ex-03" />
+      <item itemvalue="CMake Application.Ex-04" />
+      <item itemvalue="CMake Application.Ex-05" />
+      <item itemvalue="CMake Application.Ex-06" />
+      <item itemvalue="CMake Application.Ex-07" />
+      <item itemvalue="CMake Application.Ex-08" />
+      <item itemvalue="CMake Application.Ex-09" />
+      <item itemvalue="CMake Application.Ex-10" />
+      <item itemvalue="CMake Application.Pr-01" />
+      <item itemvalue="CMake Application.Pr-02" />
+      <item itemvalue="CMake Application.Pr-03" />
+      <item itemvalue="CMake Application.Pr-04" />
+      <item itemvalue="CMake Application.Pr-05" />
+      <item itemvalue="CMake Application.Pr-06" />
+      <item itemvalue="CMake Application.Pr-07" />
+      <item itemvalue="CMake Application.Pr-08" />
+      <item itemvalue="CMake Application.test" />
+    </list>
+  </component>
+  <component name="SelectedDebugProfileService"><![CDATA[{
+  "profileIdByStamp": [],
+  "modificationCount": 16
+}]]></component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="31f01ab6-6fa7-498e-8de1-8b9cc823a5de" name="Changes" comment="" />
+      <created>1787873043731</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1787873043731</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VCPKGProject">
+    <isAutomaticCheckingOnLaunch value="false" />
+    <isAutomaticFoundErrors value="true" />
+    <isAutomaticReloadCMake value="true" />
+    <isAutomaticBootstrapAfterUpdate value="false" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>

@@ -1,7 +1,7 @@
 #include "exs.h"
 #include "prs.h"
 
-/* This is the main file to run the tasks of chapter 03.
+/* This is the main file to run the tasks of chapter 02.
  * A task can be either an exercise (ex) or a programming project (pr).
  * For this chapter, the possible tasks are:
  * Exercises: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10
